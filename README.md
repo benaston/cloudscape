@@ -1,4 +1,5 @@
-cloudscape
+cloudsca.pe
 ==========
 
-Cloudsca.pe Stuff
+
+![Alt text](./logo-square.png "Cloudsca.pe Logo")
